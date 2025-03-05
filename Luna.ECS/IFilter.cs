@@ -1,4 +1,4 @@
-namespace LunaECS.Utilities.ECS;
+namespace Luna.ECS;
 
 public interface IFilter
 {

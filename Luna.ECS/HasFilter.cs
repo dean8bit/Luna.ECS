@@ -1,4 +1,4 @@
-namespace LunaECS.Utilities.ECS;
+namespace Luna.ECS;
 
 public class HasFilter(params Type[] has) : IFilter
 {
